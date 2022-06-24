@@ -35,6 +35,40 @@ Until now I have completed videos of the the following topics-<br />
 •	Computational graph of NN<br />
 •	NN Notations <br /> 
 •	Shorthand idea of NN Computations <br />
-I am a little lagging behind the schedule due to midsems but will try to coverup as soon as midsems are over.
 
-
+# Week-3 & Week-4
+This week was continuation of Neural Networks started in Week 2. <br />
+Topics covered this week are mentioned below-<br />
+• Details of neural networks<br />	
+•	Activation functions<br />
+•	Importance of Non-Linear functions <br />
+•	Derivatives of Activation Functions<br />
+•	Gradient Descent for Neural Networks <br /> 
+• Backprogation Intuition<br />
+•	Weight Initialization<br />
+•	Deep Netwroks<br />
+•	Forward and Backward prop<br />
+•	Parameters and Hyperparameters<br />
+•	Dropout Regularization<br />
+•	Early Stopping<br />
+•	Vanishing/Exploring Gradients <br />
+•	Tackling Vanishing/Exploring Gradients via Weight Initializing <br />
+•	Grad Check<br />
+•	Mini Batch Gradient Descent<br />
+•	Mini Batch Gradient Size<br />
+•	Exploring Descent<br />
+•	Xavier Weight Initialization<br />
+•	Exponentially Weighted Averages<br />
+After this we learned about Tensorflow which is an open source platform for machine learning. <br/>
+We also learned CNN(Convolutional Neural Networks) and RNN(Recurrent Neural Networks) from the following links- <br />
+1)CNN <br />
+  •https://www.youtube.com/watch?v=YRhxdVk_sIs <br />
+  •https://www.youtube.com/watch?v=zfiSAzpy9NM <br />
+2)RNN <br />
+  •https://youtu.be/LHXXI4-IEns <br />
+  •https://youtu.be/Y2wfIKQyd1I <br />
+ 
+ 
+# Week-5
+This week's content has not yet been completed as out endsems are beginning from 27th but will definitely complete as soon as endsems are over.
+ 
