@@ -69,6 +69,3 @@ We also learned CNN(Convolutional Neural Networks) and RNN(Recurrent Neural Netw
   •https://youtu.be/Y2wfIKQyd1I <br />
  
  
-# Week-5
-This week's content has not yet been completed as our endsems are beginning from 27th but will definitely complete as soon as endsems are over.
- 
